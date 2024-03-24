@@ -185,7 +185,7 @@ function alterarFilme() {
         'diretor': txtDiretorFilme.value,
         'elencoPrincipal': txtElencoFilme.value,
         'pais': txtPaisFilme.value,
-        'anoPancamento': txtAnoLancamentoFilme.value,
+        'anoLancamento': txtAnoLancamentoFilme.value,
         'nota': txtNotaFilme.value
     };
     asyncAlterarFilme(dadosFilme, inicializarFilme, errorHandler);
