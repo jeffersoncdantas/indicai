@@ -1,0 +1,4 @@
+com\indicai\indicai\itens\repository\FilmeRepository.class
+com\indicai\indicai\itens\entity\Filme.class
+com\indicai\indicai\IndicaiApplication.class
+com\indicai\indicai\itens\controller\FilmeController.class
